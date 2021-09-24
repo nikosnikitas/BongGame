@@ -18,7 +18,7 @@
 
 *Requirements*
 >  - Python =+ 3.6
-- PyGame =+ 2.0.1
+   - PyGame =+ 2.0.1
 
 *How to Run*
 > 1. Unzip the file and open the folder.
@@ -28,3 +28,5 @@
 `python FileName.py`.
 
 >*(**Note:** `FileName.py` is either `main.py` or `bong.py` depending what you have.*)
+
+> You can also [try it online]()
