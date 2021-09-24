@@ -18,13 +18,13 @@
 
 *Requirements*
 >  - Python =+ 3.6
-   - PyGame =+ 2.0.1
+>  - PyGame =+ 2.0.1
 
 *How to Run*
 > 1. Unzip the file and open the folder.
-1. See if there is a `main.py` or a `bong.py` file.
-1. Open your *Command Line* or *Terminal*.
-1. Type `python3 FileName.py` or 
+> 1. See if there is a `main.py` or a `bong.py` file.
+> 1. Open your *Command Line* or *Terminal*.
+> 1. Type `python3 FileName.py` or 
 `python FileName.py`.
 
 >*(**Note:** `FileName.py` is either `main.py` or `bong.py` depending what you have.*)
